@@ -1,0 +1,6 @@
+location,rainfall_24h,soil_moisture,slope,risk_percentage,risk_level
+Ooty,120,75,32,68,Medium
+Coonoor,95,68,28,52,Medium
+Kotagiri,65,55,22,35,Low
+Gudalur,180,82,38,88,High
+Avalanche,210,90,42,94,High
